@@ -1,6 +1,6 @@
 # NPL Homework 12 
 
-Analysis code: [Notebook](https://github.com/jcurvone/timeseries_hw10/blob/master/timeseries_analysis.ipynb)
+Analysis code: [Notebook](https://github.com/jcurvone/npl_hw12/blob/master/Sentiment.ipynb)
 
 ### Sentiment Analyzer Results
 
